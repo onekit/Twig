@@ -1,11 +1,10 @@
 {
-    "name": "twig/twig",
+    "name": "onekit/twig",
     "type": "library",
     "description": "Twig, the flexible, fast, and secure template language for PHP",
     "keywords": ["templating"],
     "homepage": "https://twig.symfony.com",
     "license": "BSD-3-Clause",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Fabien Potencier",
